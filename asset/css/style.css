@@ -7,9 +7,28 @@
 }
 
 /* utilities */
-
 .m-y-20 {
   margin: 20px 0;
+}
+
+.blue-tag {
+  background-color: #47adf1;
+  color: #ffffff;
+}
+
+.white-tag {
+  background-color: #ffffff;
+  border: 1px solid #cbd1d5;
+  color: #cbd1d5;
+}
+
+main {
+  background-color: #f6f8f9;
+}
+.container {
+  width: 70%;
+  margin: 20px auto;
+  background-color: #ffffff;
 }
 
 .title {
@@ -23,4 +42,18 @@
   line-height: 80px;
   vertical-align: middle;
   background-repeat: no-repeat;
+}
+
+.head-tag {
+  display: inline-block;
+  padding: 5px 10px;
+  border-radius: 5px;
+}
+
+.head {
+  padding: 10px 50px;
+}
+
+hr {
+  border: 1px solid #cbd1d5;
 }
